@@ -76,10 +76,6 @@ The script evaluates the strength of passwords based on length, inclusion of low
 - **Update Password**: Updates an existing password, with options for random generation or manual entry.
 - **Delete Password**: Deletes a password entry for a given account.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
